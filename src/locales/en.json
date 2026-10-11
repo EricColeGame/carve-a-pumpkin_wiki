@@ -6,7 +6,17 @@
     "description": "Carve a Pumpkin Wiki provides carving guides, pumpkin designs, gameplay tips, codes, and useful information to help players create amazing Halloween pumpkins.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle Theme",
+    "guide": "Guide",
+    "ideas": "Ideas",
+    "crafts": "Crafts",
+    "mechanics": "Mechanics",
+    "events": "Events",
+    "care": "Care"
+  },
   "home": {
     "meta": {
       "title": "Carve a Pumpkin Wiki — Codes, Designs & Beginner Guide",
@@ -351,7 +361,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -387,5 +396,29 @@
     "buildGuide": "Care & Preservation",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Carve a Pumpkin Guides",
+    "overviewDescription": "Step-by-step carving guides, beginner tutorials, and essential tools for Carve a Pumpkin."
+  },
+  "ideas": {
+    "overviewTitle": "Carve a Pumpkin Ideas",
+    "overviewDescription": "Creative design inspiration, scary faces, cute animal templates, and carving ideas for Carve a Pumpkin."
+  },
+  "crafts": {
+    "overviewTitle": "Carve a Pumpkin Crafts",
+    "overviewDescription": "Specialized crafting methods using stencils, cookie cutters, power drills, and artificial foam pumpkins."
+  },
+  "mechanics": {
+    "overviewTitle": "Carve a Pumpkin Mechanics",
+    "overviewDescription": "Gameplay mechanics, crafting recipes, jack-o’-lantern creation, and in-game features for Carve a Pumpkin."
+  },
+  "events": {
+    "overviewTitle": "Carve a Pumpkin Events",
+    "overviewDescription": "Seasonal Halloween events, community pumpkin carving contests, and themed challenges for Carve a Pumpkin."
+  },
+  "care": {
+    "overviewTitle": "Carve a Pumpkin Care",
+    "overviewDescription": "Preservation methods and maintenance tips to keep carved pumpkins fresh and prevent rotting."
   }
 }
