@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Carve a Pumpkin Wiki",
+    "shortName": "Carve a Pumpkin",
+    "tagline": "Codes, Designs & Guide",
+    "description": "Carve a Pumpkin Wiki provides carving guides, pumpkin designs, gameplay tips, codes, and useful information to help players create amazing Halloween pumpkins.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -31,16 +31,16 @@
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "title": "Carve a Pumpkin Wiki",
+      "description": "Carve a Pumpkin is a creative Halloween-themed carving game where players design pumpkins, unlock decorations, and enjoy a relaxing crafting experience.",
       "stats": [
         "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Pumpkin Designs",
+        "Carving Guides",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Pumpkin Designs",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Carve a Pumpkin?",
+      "description": "From your first carving strokes to advanced Halloween pumpkin designs, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,14 +379,14 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Carve a Pumpkin Wiki",
+    "about": "Carve a Pumpkin Wiki is an independent fan-built guide hub covering pumpkin designs, carving tools, progression, and essential tips for Halloween crafting enthusiasts.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Carve a Pumpkin Wiki. Not affiliated with Roblox or the game developers.",
+    "description": "Creative Halloween pumpkin carving game on Roblox. Design pumpkins, unlock tools, and share creations.",
+    "playGame": "Play Carve a Pumpkin",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "vvBuilder": "VV Builder (Skill Planner)",
