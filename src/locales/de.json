@@ -1,1 +1,420 @@
-{}
+{
+  "site": {
+    "name": "Carve a Pumpkin Wiki",
+    "shortName": "Carve a Pumpkin",
+    "tagline": "Codes, Designs & Guide",
+    "description": "Das Carve a Pumpkin Wiki bietet Schnitzanleitungen, Kürbis-Designs, Spieltipps, Codes und nützliche Informationen, um fantastische Halloween-Kürbisse zu gestalten.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design umschalten",
+    "guide": "Guide",
+    "ideas": "Ideas",
+    "crafts": "Crafts",
+    "mechanics": "Mechanics",
+    "events": "Events",
+    "care": "Care"
+  },
+  "home": {
+    "meta": {
+      "title": "Carve a Pumpkin Wiki — Codes, Designs & Anfänger-Guide",
+      "description": "Meistere Carve a Pumpkin auf Roblox mit aktiven Codes, kreativen Schnitz-Designs, Schritt-für-Schritt-Werkzeug-Tutorials und Deko-Tipps."
+    },
+    "hero": {
+      "eyebrow": "Community-Fan-Wiki",
+      "title": "Carve a Pumpkin Wiki",
+      "description": "Carve a Pumpkin ist ein kreatives Halloween-Schnitzspiel auf Roblox, in dem Spieler Kürbisse gestalten, Dekorationen freischalten und entspanntes Basteln genießen.",
+      "stats": [
+        "Alle Codes",
+        "Kürbis-Designs",
+        "Schnitz-Guides",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Kürbis-Designs",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in Carve a Pumpkin",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne die Grundlagen des Schnitzens, Sicherheitshinweise, das Aushöhlen von Fruchtfleisch und die Kürbisauswahl."
+        },
+        {
+          "number": "2",
+          "title": "Schnitzwerkzeuge",
+          "description": "Entdecke gezahnte Sägen, Schaber und Rotationswerkzeuge, um feine Konturen mühelos zu schnitzen."
+        },
+        {
+          "number": "3",
+          "title": "Kreative Designs",
+          "description": "Entdecke einfache Fratzen, gruselige Silhouetten, 3D-Reliefschattierungen und festliche Muster."
+        },
+        {
+          "number": "4",
+          "title": "Frische bewahren",
+          "description": "Nutze Feuchtigkeitsbäder, antimikrobielle Versiegelung und passende Beleuchtung, um Kürbisse wochenlang frisch zu halten."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Jetzt im Trend",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Schnitzwerkzeuge",
+        "Kreative Designs",
+        "Frische bewahren"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Vollständige Schritt-für-Schritt-Anleitung von der Kürbisauswahl bis zum Aushöhlen und Schnitzen.",
+          "href": "/guide/carve-a-pumpkin-for-beginners"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Schnitzwerkzeuge",
+          "description": "Vergleiche gezahnte Sägen, Fruchtfleischschaber und Fräsen für saubere Schnitzergebnisse.",
+          "href": "/guide/carve-a-pumpkin-tools"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Kreative Designs",
+          "description": "Entdecke Fratzenmuster, Tierschablonen, Gruselmotive und 3D-Relieftechniken.",
+          "href": "/ideas/carve-a-pumpkin-designs"
+        },
+        {
+          "badge": "Pflege",
+          "title": "Frische bewahren",
+          "description": "Bewährte Methoden gegen Fäulnis und Versiegelungen, damit deine Kürbisse bis Halloween halten.",
+          "href": "/care/carve-a-pumpkin-preserve"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Carve a Pumpkin?",
+      "paragraphs": [
+        "Carve a Pumpkin ist ein unterhaltsamer, kreativer Simulator und Bastelspiel auf Roblox rund um herbstliche Traditionen. Spieler bauen frische Kürbisse an, schnitzen eigene Muster, schalten Deko-Zubehör frei und präsentieren leuchtende Jack-o'-Lanterns.",
+        "Egal ob freundlich grinsende Gesichter, aufwendige mehrschichtige Laternen, Wettbewerbe oder Konservierungsmethoden – unser Wiki bietet umfassende Anleitungen und Ideen für jeden Schritt."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Community Studio"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox / PC / Mobil"
+        },
+        {
+          "label": "Genre",
+          "value": "Kreativ-Simulator"
+        },
+        {
+          "label": "Besuche",
+          "value": "1M+"
+        },
+        {
+          "label": "Favoriten",
+          "value": "50K+"
+        },
+        {
+          "label": "Guides gesamt",
+          "value": "30+"
+        },
+        {
+          "label": "Werkzeuge & Items",
+          "value": "40+"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Carve a Pumpkin Wiki entdecken",
+      "description": "Meistere das Kürbisschnitzen mit Anleitungen zu Einsteigertechniken, aktiven Codes, kreativen Mustern und fortschrittlichen Werkzeugen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Carve a Pumpkin Anfänger-Guide",
+          "description": "Erklärt den grundlegenden Spielablauf: Kürbisse anbauen, schnitzen, dekorieren, abstimmen und Belohnungen verdienen.",
+          "href": "/guide/carve-a-pumpkin-for-beginners",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Wähle einen festen Kürbis mit flachem Boden und glatter Schnittfläche"
+            },
+            {
+              "label": "2",
+              "detail": "Schneide den oberen Deckel in einem 45-Grad-Winkel nach innen aus"
+            },
+            {
+              "label": "3",
+              "detail": "Kratze Fasern und Kerne heraus, bis die Wand etwa 2,5 cm dick ist"
+            },
+            {
+              "label": "4",
+              "detail": "Übertrage die Schablone mit einer Prickelnadel und säge sorgfältig mit gezahnten Klingen"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Carve a Pumpkin Codes",
+          "description": "Sammelt aktive Belohnungscodes, Einlösemethoden und Event-Boni, sobald sie offiziell veröffentlicht werden.",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PUMPKIN2026",
+              "detail": "Einlösen für gratis Bonusmünzen und Kürbissamen"
+            },
+            {
+              "label": "HALLOWEEN",
+              "detail": "Schaltet saisonale Schnitz-Schablonen frei"
+            },
+            {
+              "label": "SPOOKY",
+              "detail": "Exklusive Leuchteffekte für Laternen sichern"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Carve a Pumpkin Kürbis-Guide",
+          "description": "Behandelt Kürbisanbau, Schnitzmechaniken, Anpassungen und Wege zu besseren Ergebnissen.",
+          "href": "/mechanics/carve-a-pumpkin-jack-o-lantern",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Feldkürbis",
+              "detail": "Klassische Kürbisse, ideal für traditionelle Fratzen"
+            },
+            {
+              "label": "Ghost/Lumina",
+              "detail": "Weiße Kürbisse für starken Kontrast bei Nachtbeleuchtung"
+            },
+            {
+              "label": "Cinderella",
+              "detail": "Flache Kürbisse, hervorragend für Oberflächengravur und Stapeldekoration"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Carve a Pumpkin Gegenstände-Guide",
+          "description": "Übersicht über Dekorationen, Zubehör, Effekte und Anpassungsgegenstände für Kürbisse.",
+          "href": "/guide/carve-a-pumpkin-tools",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Deckelsäge",
+              "detail": "Große gezahnte Säge für saubere, angewinkelte Schnitte"
+            },
+            {
+              "label": "Detailsäge",
+              "detail": "Feinzahnige Klinge für feine Gesichtszüge"
+            },
+            {
+              "label": "Schaber",
+              "detail": "Gebogene Metallschaufel zum Ausdünnen der Wände"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Beste Designs in Carve a Pumpkin",
+          "description": "Zeigt beliebte Schnitzideen, kreative Muster und Deko-Kombinationen für Abstimmungen.",
+          "href": "/ideas/carve-a-pumpkin-designs",
+          "displayType": "table",
+          "highlights": [
+            {
+              "label": "A",
+              "detail": "Detaillierte Schablonen & Tiersilhouetten: auffällige Veranda-Deko"
+            },
+            {
+              "label": "B",
+              "detail": "Geometrische Muster & gebohrte Sternenbilder: modern und sauber"
+            },
+            {
+              "label": "C",
+              "detail": "Klassische Dreiecks-Fratzen: schnell und ideal für Einsteiger"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tipps und Tricks für Carve a Pumpkin",
+          "description": "Bietet Gameplay-Tipps wie schnellere Schnittmethoden, bessere Deko-Wahl und Strategien für Belohnungen.",
+          "href": "/guide/carve-a-pumpkin-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kamin",
+              "detail": "Kleine Kerbe im Deckel schneiden, um Hitze bei Kerzenbetrieb abzuleiten"
+            },
+            {
+              "label": "Bodenschnitt",
+              "detail": "Boden statt Deckel herausschneiden, um den Kürbis einfach über LEDs zu setzen"
+            },
+            {
+              "label": "Vaseline",
+              "detail": "Schnittkanten mit Vaseline bestreichen, um Feuchtigkeitsverlust zu stoppen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Updates zu Carve a Pumpkin",
+          "description": "Verfolgt neue Features, saisonale Events, Gameplay-Änderungen und wichtige Ankündigungen.",
+          "href": "/events/carve-a-pumpkin-halloween",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wettbewerbe",
+              "detail": "Jährliche Halloween-Schnitzwettbewerbe und Community-Showcases"
+            },
+            {
+              "label": "Schablonen",
+              "detail": "Neu hinzugefügte druckbare Schablonen und Kreativpakete"
+            },
+            {
+              "label": "Werkzeuge",
+              "detail": "Aktualisierte Ratgeber für Dremel-Drehzahlen und LED-Lichttechniken"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Roblox-Guide zu Carve a Pumpkin",
+          "description": "Allgemeine Informationen zum Spielen von Carve a Pumpkin auf Roblox inklusive Plattform-Details.",
+          "href": "/guide/carve-a-pumpkin-step-by-step",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Tritt Carve a Pumpkin auf Roblox auf PC, Tablet oder Smartphone bei"
+            },
+            {
+              "label": "2",
+              "detail": "Gehe zu deinem Bastelplatz und wähle einen frischen Kürbis aus dem Feld"
+            },
+            {
+              "label": "3",
+              "detail": "Nutze Werkzeuge und Zubehör im Spiel, um deine individuelle Laterne zu formen"
+            },
+            {
+              "label": "4",
+              "detail": "Reiche deine Kreation bei Community-Votings ein, um Münzen und Trophäen zu gewinnen"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen zu Carve a Pumpkin.",
+      "items": [
+        {
+          "question": "Was ist Carve a Pumpkin?",
+          "answer": "Carve a Pumpkin ist ein kreatives Halloween-Erlebnis auf Roblox und ein Ratgeber-Portal, bei dem Spieler Kürbisse züchten, mit Spezialwerkzeugen schnitzen und an Schauwettbewerben teilnehmen."
+        },
+        {
+          "question": "Wie starten Anfänger in Carve a Pumpkin?",
+          "answer": "Anfänger sollten einen stabilen Feldkürbis wählen, die Innenwände auf etwa 2,5 cm Dicke abschaben und kleine gezahnte Sägen für kontrollierte Schnitte verwenden."
+        },
+        {
+          "question": "Wie mache ich meine Kürbisse in Carve a Pumpkin länger haltbar?",
+          "answer": "Tauche den Kürbis in ein verdünntes Essig- oder Bleichbad, bestreiche Schnittkanten mit Vaseline und nutze kühle LED-Leuchten statt brennender Kerzen."
+        },
+        {
+          "question": "Wo finde ich aktive Carve a Pumpkin Codes?",
+          "answer": "Sieh dir unseren Bereich für Codes und Updates an, um aktive Codes für Bonusmünzen, saisonale Schablonen und Leuchteffekte zu finden."
+        },
+        {
+          "question": "Welche Werkzeuge eignen sich am besten für Details?",
+          "answer": "Für feine Konturen eignen sich schmale Sägeblätter, Bandschlingen zum Modellieren und Dremel-Fräswerkzeuge bei hoher Drehzahl."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Carve a Pumpkin zu meistern?",
+      "description": "Von den ersten Schnitten bis zu aufwendigen Halloween-Designs – unser Fan-Wiki begleitet dich mit aktuellen Guides.",
+      "primary": "Anfänger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Carve a Pumpkin Wiki",
+    "about": "Carve a Pumpkin Wiki ist ein unabhängiges Fan-Portal mit Kürbis-Designs, Werkzeug-Ratgebern, Spielfortschritt und unverzichtbaren Tipps.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Carve a Pumpkin Wiki. Nicht mit Roblox oder den Spielentwicklern verbunden.",
+    "description": "Kreatives Halloween-Kürbisschnitzspiel auf Roblox. Designs erstellen, Werkzeuge freischalten und Kreationen teilen.",
+    "playGame": "Carve a Pumpkin spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube",
+    "vvBuilder": "Design-Schablonen",
+    "beginnerGuide": "Anfänger-Guide",
+    "raceGuides": "Schnitzideen",
+    "bossGuides": "Werkzeug-Guides",
+    "buildGuide": "Pflege & Haltbarkeit",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Carve a Pumpkin Guides",
+    "overviewDescription": "Schritt-für-Schritt-Schnitzanleitungen, Einsteiger-Tutorials und wichtige Werkzeuge für Carve a Pumpkin."
+  },
+  "ideas": {
+    "overviewTitle": "Carve a Pumpkin Ideen",
+    "overviewDescription": "Kreative Inspirationen, Gruselgesichter, niedliche Tiervorlagen und Schnitzideen für Carve a Pumpkin."
+  },
+  "crafts": {
+    "overviewTitle": "Carve a Pumpkin Basteln",
+    "overviewDescription": "Spezielle Bastelmethoden mit Schablonen, Ausstechformen, Bohrmaschinen und künstlichen Schaumstoffkürbissen."
+  },
+  "mechanics": {
+    "overviewTitle": "Carve a Pumpkin Mechaniken",
+    "overviewDescription": "Gameplay-Mechaniken, Rezepte, Jack-o'-Lantern-Erstellung und Spielfunktionen für Carve a Pumpkin."
+  },
+  "events": {
+    "overviewTitle": "Carve a Pumpkin Events",
+    "overviewDescription": "Saisonale Halloween-Events, Kürbisschnitz-Wettbewerbe und Themen-Challenges für Carve a Pumpkin."
+  },
+  "care": {
+    "overviewTitle": "Carve a Pumpkin Pflege",
+    "overviewDescription": "Konservierungsmethoden und Pflegetipps, um geschnitzte Kürbisse frisch zu halten und Fäulnis zu verhindern."
+  }
+}

@@ -1,1 +1,420 @@
-{}
+{
+  "site": {
+    "name": "Carve a Pumpkin Wiki",
+    "shortName": "Carve a Pumpkin",
+    "tagline": "Códigos, Desenhos e Guia",
+    "description": "Carve a Pumpkin Wiki fornece guias de escultura, modelos de abóboras, dicas de jogo, códigos e informações úteis para criar incríveis abóboras de Halloween.",
+    "legalNotice": "Wiki não oficial feita por fãs. Criada por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guide",
+    "ideas": "Ideas",
+    "crafts": "Crafts",
+    "mechanics": "Mechanics",
+    "events": "Events",
+    "care": "Care"
+  },
+  "home": {
+    "meta": {
+      "title": "Carve a Pumpkin Wiki — Códigos, Desenhos e Guia para Iniciantes",
+      "description": "Domine Carve a Pumpkin no Roblox com códigos ativos, designs criativos de escultura, tutoriais passo a passo de ferramentas e dicas de decoração."
+    },
+    "hero": {
+      "eyebrow": "Wiki Comunitária de Fãs",
+      "title": "Carve a Pumpkin Wiki",
+      "description": "Carve a Pumpkin é um jogo criativo de Halloween onde os jogadores esculpem abóboras, desbloqueiam decorações e desfrutam de uma experiência relaxante.",
+      "stats": [
+        "Todos os códigos",
+        "Desenhos de abóboras",
+        "Guias de escultura",
+        "Atualizações semanais"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Desenhos de abóboras",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Explorar todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Carve a Pumpkin",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda a mecânica básica de corte, práticas de segurança, remoção de polpa e escolha das melhores abóboras."
+        },
+        {
+          "number": "2",
+          "title": "Ferramentas de escultura",
+          "description": "Descubra serras dentadas, raspadores e ferramentas rotativas para esculpir curvas precisas com facilidade."
+        },
+        {
+          "number": "3",
+          "title": "Desenhos criativos",
+          "description": "Explore rostos iniciais simples, silhuetas assustadoras, relevo sombreado em 3D e padrões festivos."
+        },
+        {
+          "number": "4",
+          "title": "Preservar o frescor",
+          "description": "Domine banhos de hidratação, selantes antimicrobianos e iluminação para manter sua abóbora fresca por semanas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Ferramentas de escultura",
+        "Desenhos criativos",
+        "Preservar o frescor"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Instruções completas passo a passo desde a escolha da abóbora certa até a escavação e escultura.",
+          "href": "/guide/carve-a-pumpkin-for-beginners"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Ferramentas de escultura",
+          "description": "Compare serras dentadas, raspadores de polpa e fresas rotativas para resultados limpos.",
+          "href": "/guide/carve-a-pumpkin-tools"
+        },
+        {
+          "badge": "Popular",
+          "title": "Desenhos criativos",
+          "description": "Explore padrões de rostos, moldes de animais, temas assustadores e técnicas em relevo 3D.",
+          "href": "/ideas/carve-a-pumpkin-designs"
+        },
+        {
+          "badge": "Cuidados",
+          "title": "Preservar o frescor",
+          "description": "Métodos comprovados contra decomposição e selantes para fazer suas criações durarem o Halloween inteiro.",
+          "href": "/care/carve-a-pumpkin-preserve"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Carve a Pumpkin?",
+      "paragraphs": [
+        "Carve a Pumpkin é um simulador criativo e jogo de artesanato sazonal no Roblox que celebra as tradições de outono. Os jogadores cultivam e selecionam abóboras frescas, esculpem padrões personalizados, desbloqueiam acessórios decorativos e exibem lanternas iluminadas.",
+        "Seja criando abóboras sorridentes, lanternas detalhadas de múltiplas camadas, participando de concursos comunitários ou dominando técnicas de preservação, nossa wiki fornece guias abrangentes e tutoriais passo a passo."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Community Studio"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox / PC / Mobile"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulador criativo"
+        },
+        {
+          "label": "Visitas",
+          "value": "1M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "50K+"
+        },
+        {
+          "label": "Total de guias",
+          "value": "30+"
+        },
+        {
+          "label": "Ferramentas e itens",
+          "value": "40+"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Carve a Pumpkin Wiki",
+      "description": "Domine a escultura de abóboras com guias completos cobrindo técnicas para iniciantes, códigos ativos, designs criativos e ferramentas avançadas.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para iniciantes de Carve a Pumpkin",
+          "description": "Explica o ciclo básico do jogo: cultivar abóboras, esculpir designs, decorar criações, votar e receber recompensas.",
+          "href": "/guide/carve-a-pumpkin-for-beginners",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Escolha uma abóbora firme de campo com base plana e superfície lisa"
+            },
+            {
+              "label": "2",
+              "detail": "Corte a tampa superior em um ângulo de 45 graus para dentro"
+            },
+            {
+              "label": "3",
+              "detail": "Raspe a polpa e as sementes até deixar a parede interna com cerca de 2,5 cm de espessura"
+            },
+            {
+              "label": "4",
+              "detail": "Transfira o molde com um furador e serre cuidadosamente com lâminas serrilhadas"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Carve a Pumpkin",
+          "description": "Reúne códigos de recompensa ativos, formas de resgate e itens gratuitos de atualizações quando lançados oficialmente.",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PUMPKIN2026",
+              "detail": "Resgate moedas bônus e sementes de abóbora gratuitas"
+            },
+            {
+              "label": "HALLOWEEN",
+              "detail": "Desbloqueie moldes decorativos sazonais de escultura"
+            },
+            {
+              "label": "SPOOKY",
+              "detail": "Receba efeitos exclusivos de brilho para iluminação de lanterna"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de abóboras de Carve a Pumpkin",
+          "description": "Abrange o cultivo de abóboras, mecânicas de corte, opções de personalização e maneiras de criar modelos melhores.",
+          "href": "/mechanics/carve-a-pumpkin-jack-o-lantern",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Campo",
+              "detail": "Abóboras clássicas ideais para recortes de rostos tradicionais"
+            },
+            {
+              "label": "Luminária",
+              "detail": "Abóboras brancas que oferecem alto contraste na iluminação noturna"
+            },
+            {
+              "label": "Cinderela",
+              "detail": "Abóboras achatadas ideais para entalhe superficial e pilhas decorativas"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de itens de Carve a Pumpkin",
+          "description": "Organiza decorações, acessórios, efeitos e itens de personalização disponíveis para as abóboras.",
+          "href": "/guide/carve-a-pumpkin-tools",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Serra de tampa",
+              "detail": "Serra dentada ampla para cortes limpos e angulares na tampa"
+            },
+            {
+              "label": "Serra fina",
+              "detail": "Lâmina de dentes finos para detalhes faciais intrincados"
+            },
+            {
+              "label": "Raspador",
+              "detail": "Concha metálica curvada para afinar paredes internas"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Melhores desenhos de Carve a Pumpkin",
+          "description": "Apresenta ideias populares de escultura, moldes criativos e combinações de decoração para vencer votações.",
+          "href": "/ideas/carve-a-pumpkin-designs",
+          "displayType": "table",
+          "highlights": [
+            {
+              "label": "A",
+              "detail": "Moldes complexos e silhuetas de animais: decorações chamativas"
+            },
+            {
+              "label": "B",
+              "detail": "Padrões geométricos e constelações perfuradas: moderno e limpo"
+            },
+            {
+              "label": "C",
+              "detail": "Rostos clássicos triangulares: rápido e ideal para iniciantes"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dicas e truques de Carve a Pumpkin",
+          "description": "Traz dicas como métodos de corte mais rápidos, melhores escolhas de decoração e estratégias para ganhar recompensas.",
+          "href": "/guide/carve-a-pumpkin-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Chaminé",
+              "detail": "Faça um entalhe na tampa para liberar calor ao usar velas"
+            },
+            {
+              "label": "Corte inferior",
+              "detail": "Corte a base inferior em vez da tampa para posicionar luzes LED com facilidade"
+            },
+            {
+              "label": "Vaselina",
+              "detail": "Passe vaselina nas bordas cortadas para reter umidade e evitar enrugamento"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Atualizações de Carve a Pumpkin",
+          "description": "Acompanha novidades, eventos sazonais, mudanças de jogabilidade e anúncios importantes.",
+          "href": "/events/carve-a-pumpkin-halloween",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Concursos",
+              "detail": "Competições anuais de Halloween e mostras comunitárias"
+            },
+            {
+              "label": "Moldes",
+              "detail": "Novos modelos para impressão e pacotes criativos adicionados"
+            },
+            {
+              "label": "Ferramentas",
+              "detail": "Guias atualizados de velocidade rotativa e técnicas de LED"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia do Roblox de Carve a Pumpkin",
+          "description": "Fornece informações gerais sobre como jogar Carve a Pumpkin no Roblox, detalhes de plataforma e acesso oficial.",
+          "href": "/guide/carve-a-pumpkin-step-by-step",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Entre na experiência Carve a Pumpkin no Roblox no PC, tablet ou celular"
+            },
+            {
+              "label": "2",
+              "detail": "Vá até sua bancada e escolha uma abóbora não esculpida na plantação"
+            },
+            {
+              "label": "3",
+              "detail": "Use ferramentas e acessórios do jogo para esculpir sua lanterna personalizada"
+            },
+            {
+              "label": "4",
+              "detail": "Envie sua criação para as votações da comunidade para ganhar moedas e troféus"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Carve a Pumpkin.",
+      "items": [
+        {
+          "question": "O que é Carve a Pumpkin?",
+          "answer": "Carve a Pumpkin é uma experiência criativa de Halloween no Roblox e uma central de guias de escultura onde os jogadores cultivam abóboras, criam lanternas com ferramentas e participam de votações."
+        },
+        {
+          "question": "Como os iniciantes começam em Carve a Pumpkin?",
+          "answer": "Iniciantes devem escolher uma abóbora resistente de campo, raspar o interior até cerca de 2,5 cm de espessura e usar serras dentadas pequenas para cortes controlados e seguros."
+        },
+        {
+          "question": "Como posso fazer minhas abóboras de Carve a Pumpkin durarem mais?",
+          "answer": "Mergulhe a abóbora em uma solução diluída com água sanitária ou vinagre, aplique vaselina nas bordas cortadas e utilize luzes LED frias em vez de velas acesas."
+        },
+        {
+          "question": "Onde encontro códigos ativos de Carve a Pumpkin?",
+          "answer": "Confira nossa seção de códigos e atualizações para ver recompensas ativas que concedem moedas gratuitas, moldes sazonais e iluminação decorativa exclusiva."
+        },
+        {
+          "question": "Quais ferramentas funcionam melhor para cortes detalhados?",
+          "answer": "Para detalhes finos, utilize serras de lâmina estreita, laços de modelagem e micro retíficas rotativas em alta velocidade para desbastar a casca sem rachar o fruto."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Carve a Pumpkin?",
+      "description": "Desde seus primeiros cortes até designs avançados de Halloween, nossa wiki comunitária oferece guias gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Carve a Pumpkin Wiki",
+    "about": "Carve a Pumpkin Wiki é uma central independente de guias feita por fãs, cobrindo modelos de abóboras, ferramentas de escultura, progressão e dicas essenciais.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Carve a Pumpkin Wiki. Não afiliado ao Roblox ou aos desenvolvedores do jogo.",
+    "description": "Jogo criativo de escultura de abóboras de Halloween no Roblox. Crie abóboras, desbloqueie ferramentas e compartilhe criações.",
+    "playGame": "Jogar Carve a Pumpkin",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Moldes de desenho",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Ideias de escultura",
+    "bossGuides": "Guias de ferramentas",
+    "buildGuide": "Cuidados e preservação",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  },
+  "guide": {
+    "overviewTitle": "Guias de Carve a Pumpkin",
+    "overviewDescription": "Guias de escultura passo a passo, tutoriais para iniciantes e ferramentas essenciais para Carve a Pumpkin."
+  },
+  "ideas": {
+    "overviewTitle": "Ideias de Carve a Pumpkin",
+    "overviewDescription": "Inspiração de design criativo, rostos assustadores, moldes de animais fofos e ideias de escultura para Carve a Pumpkin."
+  },
+  "crafts": {
+    "overviewTitle": "Artesanato de Carve a Pumpkin",
+    "overviewDescription": "Métodos especializados de artesanato com moldes, cortadores de biscoito, furadeiras e abóboras artificiais."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Carve a Pumpkin",
+    "overviewDescription": "Mecânicas de jogo, receitas de criação, confecção de lanternas e recursos do Carve a Pumpkin."
+  },
+  "events": {
+    "overviewTitle": "Eventos de Carve a Pumpkin",
+    "overviewDescription": "Eventos sazonais de Halloween, concursos comunitários de escultura de abóboras e desafios temáticos."
+  },
+  "care": {
+    "overviewTitle": "Cuidados em Carve a Pumpkin",
+    "overviewDescription": "Métodos de preservação e dicas de manutenção para manter abóboras esculpidas frescas e evitar que estraguem."
+  }
+}

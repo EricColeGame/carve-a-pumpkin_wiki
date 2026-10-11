@@ -1,1 +1,420 @@
-{}
+{
+  "site": {
+    "name": "Carve a Pumpkin Wiki",
+    "shortName": "Carve a Pumpkin",
+    "tagline": "Códigos, Diseños y Guía",
+    "description": "Carve a Pumpkin Wiki ofrece guías de tallado, diseños de calabazas, consejos de juego, códigos e información útil para crear increíbles calabazas de Halloween.",
+    "legalNotice": "Wiki no oficial hecha por fans. Creada por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guide",
+    "ideas": "Ideas",
+    "crafts": "Crafts",
+    "mechanics": "Mechanics",
+    "events": "Events",
+    "care": "Care"
+  },
+  "home": {
+    "meta": {
+      "title": "Carve a Pumpkin Wiki — Códigos, Diseños y Guía para Principiantes",
+      "description": "Domina Carve a Pumpkin en Roblox con códigos activos, diseños creativos de tallado, tutoriales paso a paso de herramientas y consejos de decoración."
+    },
+    "hero": {
+      "eyebrow": "Wiki Comunitaria de Fans",
+      "title": "Carve a Pumpkin Wiki",
+      "description": "Carve a Pumpkin es un juego creativo con temática de Halloween donde los jugadores diseñan calabazas, desbloquean decoraciones y disfrutan de una experiencia relajante.",
+      "stats": [
+        "Todos los códigos",
+        "Diseños de calabazas",
+        "Guías de tallado",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Diseños de calabazas",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Carve a Pumpkin",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende la mecánica básica de tallado, prácticas de seguridad, vaciado de pulpa y selección de las mejores calabazas."
+        },
+        {
+          "number": "2",
+          "title": "Herramientas de tallado",
+          "description": "Descubre sierras dentadas, raspadores y herramientas rotativas para esculpir curvas precisas con facilidad."
+        },
+        {
+          "number": "3",
+          "title": "Diseños creativos",
+          "description": "Explora caras iniciales sencillas, siluetas aterradoras, sombreado en relieve 3D y patrones festivos."
+        },
+        {
+          "number": "4",
+          "title": "Conservar frescura",
+          "description": "Domina baños de hidratación, selladores antimicrobianos e iluminación para mantener tu calabaza fresca durante semanas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Herramientas de tallado",
+        "Diseños creativos",
+        "Conservar frescura"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Instrucciones completas paso a paso desde la elección de la calabaza adecuada hasta el vaciado y tallado.",
+          "href": "/guide/carve-a-pumpkin-for-beginners"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Herramientas de tallado",
+          "description": "Compara sierras dentadas, raspadores de pulpa y fresas rotativas para obtener resultados limpios.",
+          "href": "/guide/carve-a-pumpkin-tools"
+        },
+        {
+          "badge": "Popular",
+          "title": "Diseños creativos",
+          "description": "Explora patrones de rostros, plantillas de animales, temas espeluznantes y técnicas en relieve 3D.",
+          "href": "/ideas/carve-a-pumpkin-designs"
+        },
+        {
+          "badge": "Cuidado",
+          "title": "Conservar frescura",
+          "description": "Métodos comprobados contra la descomposición y selladores para que tus creaciones duren todo Halloween.",
+          "href": "/care/carve-a-pumpkin-preserve"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Carve a Pumpkin?",
+      "paragraphs": [
+        "Carve a Pumpkin es un simulador creativo y juego de artesanía de temporada en Roblox que celebra las tradiciones de otoño. Los jugadores cultivan y eligen calabazas frescas, tallan patrones personalizados, desbloquean accesorios decorativos y exhiben linternas iluminadas.",
+        "Ya sea que estés creando calabazas sonrientes, linternas detalladas multicapa, participando en concursos comunitarios o dominando técnicas de conservación, nuestra wiki ofrece guías exhaustivas e inspiración paso a paso."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Community Studio"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox / PC / Móvil"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador creativo"
+        },
+        {
+          "label": "Visitas",
+          "value": "1M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "50K+"
+        },
+        {
+          "label": "Total de guías",
+          "value": "30+"
+        },
+        {
+          "label": "Herramientas y objetos",
+          "value": "40+"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Carve a Pumpkin Wiki",
+      "description": "Domina el arte de tallar calabazas con guías completas que abarcan técnicas para principiantes, códigos activos, diseños creativos y herramientas avanzadas.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Carve a Pumpkin",
+          "description": "Explica el bucle básico del juego: cultivar calabazas, tallar diseños, decorar creaciones, votar y obtener recompensas.",
+          "href": "/guide/carve-a-pumpkin-for-beginners",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Selecciona una calabaza firme con base plana y superficie lisa"
+            },
+            {
+              "label": "2",
+              "detail": "Corta la tapa superior en un ángulo de 45 grados hacia adentro"
+            },
+            {
+              "label": "3",
+              "detail": "Rasca la pulpa fibrosa y semillas hasta dejar paredes de 2.5 cm de grosor"
+            },
+            {
+              "label": "4",
+              "detail": "Transfiere la plantilla con un punzón y sierra cuidadosamente con hojas dentadas"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Carve a Pumpkin",
+          "description": "Recopila códigos de recompensa activos, métodos de canje y obsequios de actualizaciones cuando se lanzan oficialmente.",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PUMPKIN2026",
+              "detail": "Canjea por monedas de bonificación y semillas gratis"
+            },
+            {
+              "label": "HALLOWEEN",
+              "detail": "Desbloquea plantillas de tallado temáticas de temporada"
+            },
+            {
+              "label": "SPOOKY",
+              "detail": "Reclama efectos exclusivos de resplandor para tu linterna"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de calabazas de Carve a Pumpkin",
+          "description": "Cubre cultivo de calabazas, mecánicas de tallado, personalización y métodos para crear mejores calabazas.",
+          "href": "/mechanics/carve-a-pumpkin-jack-o-lantern",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Campo",
+              "detail": "Calabazas tradicionales ideales para caras sonrientes clásicas"
+            },
+            {
+              "label": "Luminaria",
+              "detail": "Calabazas blancas que proporcionan un gran contraste nocturno"
+            },
+            {
+              "label": "Cenicienta",
+              "detail": "Calabazas achaparradas ideales para grabado y exhibiciones apiladas"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de objetos de Carve a Pumpkin",
+          "description": "Organiza decoraciones, accesorios, efectos y objetos de personalización disponibles para calabazas.",
+          "href": "/guide/carve-a-pumpkin-tools",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Sierra de tapa",
+              "detail": "Sierra dentada grande para cortes limpios y en ángulo"
+            },
+            {
+              "label": "Sierra fina",
+              "detail": "Hoja de dientes finos para detalles faciales minuciosos"
+            },
+            {
+              "label": "Raspador",
+              "detail": "Cuchara curva de metal para afinar paredes interiores"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Mejores diseños de Carve a Pumpkin",
+          "description": "Muestra ideas populares de tallado, patrones creativos y combinaciones de decoración para ganar votos.",
+          "href": "/ideas/carve-a-pumpkin-designs",
+          "displayType": "table",
+          "highlights": [
+            {
+              "label": "A",
+              "detail": "Plantillas complejas y siluetas de animales: exhibiciones llamativas"
+            },
+            {
+              "label": "B",
+              "detail": "Patrones geométricos y constelaciones perforadas: limpio y moderno"
+            },
+            {
+              "label": "C",
+              "detail": "Caras clásicas con triángulos: ideal y rápido para principiantes"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Consejos y trucos de Carve a Pumpkin",
+          "description": "Ofrece consejos como métodos de corte más rápidos, mejores decoraciones y estrategias para ganar recompensas.",
+          "href": "/guide/carve-a-pumpkin-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Chimenea",
+              "detail": "Corta una pequeña muesca en la tapa para ventilar calor al usar velas"
+            },
+            {
+              "label": "Corte inferior",
+              "detail": "Corta la base inferior en lugar de la tapa para colocar luces LED fácilmente"
+            },
+            {
+              "label": "Vaselina",
+              "detail": "Cubre los bordes cortados con vaselina para retener humedad y evitar arrugas"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Actualizaciones de Carve a Pumpkin",
+          "description": "Sigue las novedades, eventos de temporada, cambios en el juego y anuncios importantes.",
+          "href": "/events/carve-a-pumpkin-halloween",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Concursos",
+              "detail": "Competiciones anuales de tallado de Halloween y eventos comunitarios"
+            },
+            {
+              "label": "Plantillas",
+              "detail": "Nuevas plantillas imprimibles añadidas y paquetes creativos"
+            },
+            {
+              "label": "Herramientas",
+              "detail": "Guías actualizadas de velocidad rotativa y técnicas LED"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de Roblox de Carve a Pumpkin",
+          "description": "Proporciona información general sobre jugar Carve a Pumpkin en Roblox, detalles de plataforma y acceso oficial.",
+          "href": "/guide/carve-a-pumpkin-step-by-step",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Únete a la experiencia Carve a Pumpkin en Roblox desde PC, tablet o móvil"
+            },
+            {
+              "label": "2",
+              "detail": "Dirígete a tu parcela de trabajo y elige una calabaza sin tallar del huerto"
+            },
+            {
+              "label": "3",
+              "detail": "Usa herramientas y accesorios del juego para esculpir tu linterna personalizada"
+            },
+            {
+              "label": "4",
+              "detail": "Presenta tu creación a las votaciones comunitarias para ganar monedas y trofeos"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más habituales sobre Carve a Pumpkin.",
+      "items": [
+        {
+          "question": "¿Qué es Carve a Pumpkin?",
+          "answer": "Carve a Pumpkin es una experiencia creativa de Roblox con temática de Halloween y un centro de guías de tallado donde los jugadores crean calabazas, usan herramientas especiales y participan en votaciones."
+        },
+        {
+          "question": "¿Cómo empiezan los principiantes en Carve a Pumpkin?",
+          "answer": "Los principiantes deben elegir una calabaza resistente, raspar las paredes interiores hasta un grosor de unos 2.5 cm y utilizar sierras dentadas pequeñas para un control seguro."
+        },
+        {
+          "question": "¿Cómo puedo hacer que mis creaciones de Carve a Pumpkin duren más?",
+          "answer": "Sumerge la calabaza en una solución diluida con vinagre o lejía, unta vaselina en los bordes cortados y utiliza luces LED frías en lugar de velas de cera."
+        },
+        {
+          "question": "¿Dónde encuentro códigos activos de Carve a Pumpkin?",
+          "answer": "Consulta nuestra sección de códigos y actualizaciones para ver claves de canje vigentes que otorgan monedas gratis, plantillas de temporada e iluminación especial."
+        },
+        {
+          "question": "¿Qué herramientas son mejores para tallar detalles finos?",
+          "answer": "Para detalles finos, usa sierras dentadas estrechas, gubias de lazo para esculpir y herramientas rotativas con fresas de alta velocidad para rebajar la cáscara sin romperla."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Carve a Pumpkin?",
+      "description": "Desde tus primeros cortes hasta los diseños más avanzados de Halloween, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Carve a Pumpkin Wiki",
+    "about": "Carve a Pumpkin Wiki es un centro de guías independiente creado por fans que cubre diseños de calabazas, herramientas de tallado, progresión y consejos esenciales.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Carve a Pumpkin Wiki. No afiliado con Roblox ni con los desarrolladores del juego.",
+    "description": "Juego creativo de tallado de calabazas de Halloween en Roblox. Diseña calabazas, desbloquea herramientas y comparte creaciones.",
+    "playGame": "Jugar Carve a Pumpkin",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Plantillas de diseño",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Ideas de tallado",
+    "bossGuides": "Guías de herramientas",
+    "buildGuide": "Cuidado y conservación",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías de Carve a Pumpkin",
+    "overviewDescription": "Guías de tallado paso a paso, tutoriales para principiantes y herramientas esenciales para Carve a Pumpkin."
+  },
+  "ideas": {
+    "overviewTitle": "Ideas de Carve a Pumpkin",
+    "overviewDescription": "Inspiración de diseño creativo, caras aterradoras, plantillas de animales adorables e ideas de tallado."
+  },
+  "crafts": {
+    "overviewTitle": "Artesanías de Carve a Pumpkin",
+    "overviewDescription": "Métodos especializados de artesanía con plantillas, cortadores de galletas, taladros y calabazas de espuma."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Carve a Pumpkin",
+    "overviewDescription": "Mecánicas de juego, recetas de creación, elaboración de linternas y funciones de Carve a Pumpkin."
+  },
+  "events": {
+    "overviewTitle": "Eventos de Carve a Pumpkin",
+    "overviewDescription": "Eventos temáticos de Halloween, concursos comunitarios de tallado y desafíos especiales."
+  },
+  "care": {
+    "overviewTitle": "Cuidado en Carve a Pumpkin",
+    "overviewDescription": "Métodos de conservación y consejos de mantenimiento para mantener las calabazas frescas y evitar que se pudran."
+  }
+}
